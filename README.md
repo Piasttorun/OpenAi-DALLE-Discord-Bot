@@ -1,9 +1,9 @@
 # OpenAi-DALLE-Discord-Bot
 A discord bot that outputs AI generated images using the OpenAI APi
 
-Use commands "$generate DESCRIPTION" to create iamges.
+Use commands "$generate DESCRIPTION" to create images.
 
-My env.txt contains:
+Requires to work:
 A discord bot token available to get from the discord developer portal: https://discord.com/developers/applications/
 An OpenAI API from https://beta.openai.com/account/api-keys
 
